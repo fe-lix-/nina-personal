@@ -1,7 +1,7 @@
 version: 1
 indices:
   sitemap:
-    target: /query-index.json
+    target: /query-index
     properties:
       title:
         select: head > meta[property="og:title"]
