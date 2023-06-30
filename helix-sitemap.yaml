@@ -1,0 +1,5 @@
+sitemaps:
+  default:
+    origin: https://nina.quodt.eu
+    source: /query-index.json
+    destination: /sitemap.xml
